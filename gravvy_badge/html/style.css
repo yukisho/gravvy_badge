@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    background: transparent;
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+}
+
+.badge-container {
+    position: absolute;
+    width: 573.094px;
+    height: 885.688px;
+    top: 130px;
+    left: 1;
+    right: 0;
+}
+
+.badge-container > img {
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    left: 0;
+}
